@@ -18,7 +18,7 @@ Our project collects data from all educational centers, compares courses, and si
 
 2. CD project folder:
     ```bash
-    cd Bilimyoli
+    cd BilimYoli
 3. Install dependencies:
     ```bash
     pip install -r requirements.txt
